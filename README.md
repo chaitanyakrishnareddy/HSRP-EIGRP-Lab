@@ -1,4 +1,4 @@
-HSRP-EIGRP-Lab# HSRP + EIGRP Redundancy Lab 
+ HSRP - EIGRP Redundancy Lab 
 
 This lab demonstrates Hot Standby Router Protocol (HSRP) with Enhanced Interior Gateway Routing Protocol (EIGRP) 
 for WAN redundancy. An ISP router advertises a loopback interface (8.8.8.8) as the simulated Internet.  
